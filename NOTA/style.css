@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: tomato;
+}
+input {
+  color: black;
+}
+p {
+  font-weight: bold;
+}
+
+button {
+  color: darkred;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
